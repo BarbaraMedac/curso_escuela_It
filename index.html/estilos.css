@@ -1,6 +1,9 @@
 body{
 
-    background-color: aqua;
+    background-color: rgb(217, 242, 242);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(87, 26, 71);
+}
+p {
     color:blueviolet;
 }
